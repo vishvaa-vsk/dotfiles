@@ -1,0 +1,16 @@
+[user]
+	name = vishvaa-vsk
+	email = kvishvaa6@gmail.com
+	signingkey = 9330A8266029B584
+[commit]
+	gpgsign = true
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/bin/git-credential-manager.exe
+	credentialStore = cache
+[credential "https://github.com"]
+	provider = github
+	username = vishvaa-vsk
+[init]
+	defaultBranch = main
+[gpg]
+	program = /mnt/c/Program Files (x86)/GnuPG/bin/gpg.exe
