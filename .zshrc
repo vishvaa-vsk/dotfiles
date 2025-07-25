@@ -89,3 +89,5 @@ export NVM_DIR="$HOME/.nvm"
 export GPG_TTY=$(tty)
 export GPG_AGENT_INFO=""
 export GPG_TTY=$(tty)
+export ANDROID_HOME=$HOME/Android
+export PATH=$PATH:$ANDROID_HOME/cmdline-tools/latest/bin:$ANDROID_HOME/platform-tools
